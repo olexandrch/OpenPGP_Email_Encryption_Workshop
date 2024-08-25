@@ -13,10 +13,9 @@ Don't miss this opportunity to learn a valuable skill!
 
 
 About the Workshop:
-📅 Date: Saturday, August 24, 2024
-🕐 Time: 1:00 pm
-🏢 Location: Hacker Dojo, 855 Maude Ave, Mountain View, CA
-⌛ Duration: 2-3 hours
-👨‍🏫 Instructor: Alex Chesnakov 
-🤝 Hosted by: Pacific Hackers Association 
-
+- 📅 Date: Saturday, August 24, 2024
+- 🕐 Time: 1:00 pm
+- 🏢 Location: Hacker Dojo, 855 Maude Ave, Mountain View, CA
+- ⌛ Duration: 2-3 hours
+- 👨‍🏫 Instructor: Alex Chesnakov
+- 🤝 Hosted by: Pacific Hackers Association 
