@@ -1,4 +1,4 @@
-# OpenPGP_Email_Encryption_Worksop
+# OpenPGP_Email_Encryption_Workshop
 
 Have you ever wanted to learn about OpenPGP but couldn't find the time?
 Join us for a hands-on workshop where you'll learn the basics of OpenPGP in just a few hours. 
