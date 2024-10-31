@@ -11,11 +11,3 @@ By the end of this session, you'll be able to:
 This workshop is perfect for anyone interested in online privacy and security. No prior knowledge of cryptography is required.
 Don't miss this opportunity to learn a valuable skill!
 
-
-About the Workshop:
-- 📅 Date: Saturday, August 24, 2024
-- 🕐 Time: 1:00 pm
-- 🏢 Location: Hacker Dojo, 855 Maude Ave, Mountain View, CA
-- ⌛ Duration: 2-3 hours
-- 👨‍🏫 Instructor: Alex Chesnakov
-- 🤝 Hosted by: Pacific Hackers Association 
